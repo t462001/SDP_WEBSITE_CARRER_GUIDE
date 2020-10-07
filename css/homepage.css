@@ -1,0 +1,200 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  margin: 1%;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* <!-- Nav Bar --> */
+.container-fluid {
+  padding: 3% 15% 0%;
+}
+
+.navbar {
+  padding: 0;
+}
+
+.navbar-brand {
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 3.5rem;
+  font-weight: bolder;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+}
+
+.navclass {
+  position: fixed;
+  top: 0;
+}
+
+/* title */
+#title {}
+
+.heading-top {
+  font-size: 4.4rem;
+  line-height: 1.5;
+  font-weight: lighter;
+  font-family: 'Great Vibes', cursive;
+  color: #95a792;
+}
+
+#subheading {
+  font-size: 2.5rem;
+  font-family: 'Great Vibes', cursive;
+  color: #95a792;
+  padding-bottom: 5%;
+}
+
+.image_main {
+  position: relative;
+  height: 85%;
+  padding-bottom: 5%;
+  padding-top: 2%;
+  width: 100%;
+}
+
+.image_class {
+  height: 300px;
+  width: 100%
+}
+
+.hedingdiv {
+  padding-bottom: 15%;
+  padding-top: 13%;
+}
+
+/* <!-- why carrer guidance --> */
+
+
+#why_guidanceid {
+  background-color: pink;
+  padding-bottom: 15%;
+
+}
+
+.why_guidance p {
+  text-align: center;
+  padding: 5%;
+  margin-top: 2%;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.why_guidance h1 {
+  text-align: left;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 4rem;.
+}
+
+.why_guidancediv .hedingdiv {
+  margin-top: 8%;
+  margin-bottom: 7
+}
+
+
+.why_image_main {
+  position: relative;
+  height: 85%;
+  width: 100%;
+  padding: 2%;
+  margin-top: 5%;
+  margin-left: 5%;
+}
+
+.why_image_class {
+  height: 300px;
+  width: 100%
+}
+
+/* <!-- what after 10th --> */
+#tenth_id {
+
+}
+
+.tenth {
+  padding-top: 5%;
+}
+
+.tenth h1 {
+  text-align: left;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 4rem;
+}
+
+.tenth p {
+  text-align: left;
+  font-size: 1.4rem;
+  font-weight: bold;
+  padding: 2%;
+}
+
+#career_list_10th {
+  padding: 2%;
+}
+
+.rowspace {
+  margin-top: 3%;
+  padding-bottom: 10;
+}
+
+/* <!-- what after 12th --> */
+.twelth {
+padding-top: 5%;
+}
+
+.twelth h1 {
+  text-align: left;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 4rem;
+  padding-bottom: 2%;
+}
+
+.twelth p {
+  text-align: left;
+  font-size: 1.4rem;
+  font-weight: bold;
+  padding: 2%;
+}
+
+#career_list_12th {
+  padding: 2%;
+  padding-bottom: 8%;
+}
+
+.rowspace {
+  margin-top: 3%;
+}
+
+/* New Equcation Policy 2020 */
+
+  .policy_details h1{
+    text-align: left;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 4rem;
+    padding-bottom: 3%;
+}
+
+.policy_details p{
+  text-align: left;
+  font-size: 1.4rem;
+  font-weight: bold;
+  padding: 2%;
+}
+.policy_button{
+  padding-left: 20%;
+  padding-right: 20%;
+}
+#policy_id{
+  padding-bottom: 20%;
+}
